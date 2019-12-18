@@ -12,7 +12,7 @@ Before submitting an issue be sure you have read and understood the rules for vo
 
 Change proposals should include the following information as applicable.
 
-**Name** This information will be used to add entries to the vocabulary editor: http://cfeditor.ceda.ac.uk/proposals/1. If you prefer not to add your name, your github id will be used.
+**Proposer's name** This information will be used to add entries to the vocabulary editor: http://cfeditor.ceda.ac.uk/proposals/1. If you prefer not to add your name, your github id will be used.
 **Date** Also used for vocabulary editor.
 
 For each term please try to give the following:
